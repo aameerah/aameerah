@@ -1,8 +1,3 @@
-## Hi, I'm Ameerah
+Hi, I’m Ameerah 👋
 
-Health Informatics student at George Brown Polytechnic, with an HBSc in Psychology from the University of Toronto. I’m interested in health research and the data management that supports it.
-
-✏️ **Tools:** REDCap, R, SQL, Python, Tableau<br>
-📋 **Research ethics:** TCPS 2 CORE, Good Clinical Practice (GCP)
-
-Projects coming soon.
+I work with research and health data, with a background in psychology and health informatics. I’m most interested in how people’s experiences get turned into data, and making sure that data holds up.
